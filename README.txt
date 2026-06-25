@@ -13,5 +13,20 @@ Features:
 Technology Stack:
 Python (Core language features: input(), int(), match-case, try-except)
 
+
+
 2: WHO WANT'S TO BE A MILLIONIOR GAME
 
+Overview:  
+This project is a console-based quiz game developed in Python. It presents multiple-choice questions to the user, evaluates their answers, and awards prizes for each correct response. The program demonstrates the use of lists, loops, conditional statements, and user input handling to create an interactive learning and entertainment tool.
+
+Features:
+(a): Question Bank: Stores questions, options, and correct answers in a structured list format.
+(b): Multiple Choice Options: Displays four answer choices for each question.
+(c): Answer Validation: Compares user input with the correct answer index.
+(d): Prize System: Awards increasing prize amounts for each correct answer.
+(e): Game Termination: Ends the game when the user provides an incorrect answer, showing the correct option.
+
+
+Technology Stack:
+Python (Core features: lists, for loops, input(), if-else conditions)
