@@ -1,0 +1,95 @@
+1: Basic Calculator
+
+Overview:  
+This project is a simple calculator developed in Python. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The program demonstrates the use of input handling, pattern matching (match-case), and exception handling to create an interactive console-based application.
+
+Features:
+(a): User Input: Prompts the user to enter two numbers and select an operation.
+(b): Arithmetic Operations: Supports addition (+), subtraction (-), multiplication (*), and division (/).
+(c): Pattern Matching: Uses Python’s match-case structure to handle different operations.
+(d): Error Handling: Catches invalid inputs (non-numeric values) and displays appropriate error messages.
+(e): Invalid Operation Handling: Provides feedback if the user enters an unsupported operation.
+
+Technology Stack:
+Python (Core language features: input(), int(), match-case, try-except)
+
+
+
+
+2: WHO WANT'S TO BE A MILLIONIOR GAME
+
+Overview:  
+This project is a console-based quiz game developed in Python. It presents multiple-choice questions to the user, evaluates their answers, and awards prizes for each correct response. The program demonstrates the use of lists, loops, conditional statements, and user input handling to create an interactive learning and entertainment tool.
+
+Features:
+(a): Question Bank: Stores questions, options, and correct answers in a structured list format.
+(b): Multiple Choice Options: Displays four answer choices for each question.
+(c): Answer Validation: Compares user input with the correct answer index.
+(d): Prize System: Awards increasing prize amounts for each correct answer.
+(e): Game Termination: Ends the game when the user provides an incorrect answer, showing the correct option.
+
+
+Technology Stack:
+Python (Core features: lists, for loops, input(), if-else conditions)
+
+
+
+
+
+3: NEWS API
+
+Overview:  
+This project is a console-based news application developed in Python. It allows users to input a topic of interest and fetches the latest articles related to that topic using the NewsAPI. The program demonstrates the use of HTTP requests, JSON parsing, and user interaction to deliver real-time information.
+
+
+Features:
+(a): Dynamic Query Input: Users can specify any topic (e.g., sports, politics, technology) to fetch relevant news.
+(b): API Integration: Utilizes the NewsAPI to retrieve up-to-date articles.
+(c): JSON Data Handling: Parses JSON responses to extract article titles and URLs.
+(d): Formatted Output: Displays each article with its title and direct link in a clean, numbered format.
+(e): Error Handling Potential: Can be extended to manage invalid queries, API errors, or empty results.
+
+
+Technology Stack:
+(a): Python (with the requests library for HTTP calls).
+(b): NewsAPI (external API for fetching news data).
+
+
+
+
+
+
+4: PDF Merger Tool
+
+Overview:  
+This project is a Python-based utility that allows users to merge multiple PDF files into a single document. It leverages the PyPDF2 library to handle PDF operations and demonstrates the use of loops, lists, and file handling in Python. The program is interactive, prompting users to specify how many PDFs they want to merge and then combining them into one consolidated file.
+
+
+Features:
+(a): User Input: Prompts the user to enter the number of PDFs and their filenames.
+(b): PDF Handling: Uses PyPDF2’s PdfWriter to append and merge multiple PDF files.
+(c): Automated Merging: Combines all selected PDFs into a single output file named Merged-pdf.pdf.
+(d): Looping Mechanism: Iterates through user-provided filenames to process each PDF.
+(e): File Output: Saves the merged file and closes the writer safely.
+
+
+Technology Stack:
+(a): Python
+(b): PyPDF2 library
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
