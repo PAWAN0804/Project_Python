@@ -12,3 +12,6 @@ Features:
 
 Technology Stack:
 Python (Core language features: input(), int(), match-case, try-except)
+
+2: WHO WANT'S TO BE A MILLIONIOR GAME
+
